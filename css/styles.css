@@ -427,6 +427,12 @@ a {
   }
 }
 
+@media screen and (max-width: 768px) {
+  .plan--popular {
+    transform: scale(1);
+  }
+}
+
 /*media*/
 .media {
   display: flex;
